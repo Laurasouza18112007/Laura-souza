@@ -1,4 +1,4 @@
 # Laura souza 
-- me chamo laura
-- sou estudante do ensino medio
-- estou aprendendo tecnologia e inovação pela linguagem java
+- Me chamo Laura
+- Sou estudante do ensino medio
+- Estou aprendendo tecnologia e inovação pela linguagem javaScript
